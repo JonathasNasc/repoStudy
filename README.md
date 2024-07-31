@@ -1,1 +1,1 @@
-Esse documento é da aua de git da rocketseat
+Esse documento é da aula de git da rocketseat
